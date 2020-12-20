@@ -1,6 +1,6 @@
 <div id="main">
     <img <?php echo $html->includeImg("nen1", "jpg"); ?> alt="No" class="image_main" />
-    <card style=" top: 20%;left: 15%;">
+    <card style=" top: 20%;left: 25%;">
         <form class="login-form" autocomplete="off">
             <p class="title text_center">Đổi mật khẩu</p>
             <div class="input-icon">
