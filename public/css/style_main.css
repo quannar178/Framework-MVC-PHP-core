@@ -724,7 +724,7 @@ input#file_input {
 }
 
 .suggest_main {
-  width: 100vw;
+  width: 99vw;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -738,7 +738,7 @@ input#file_input {
   margin-bottom: 3rem;
   margin-top: 3rem;
   padding: 3rem;
-  width: 80vw;
+  width: 70vw;
   background-color: #f79999;
   border-radius: 20px;
   display: flex;
